@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055067791043",
+    "project_id": "react-native-test-mode-9fe7b",
+    "storage_bucket": "react-native-test-mode-9fe7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055067791043:android:bca6fc9bc77d3bb1f00c76",
+        "android_client_info": {
+          "package_name": "com.reduxfirebasern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055067791043-l8ho0m6iji1he2ldsd2qsae5nprov7js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTdf4k4b8_ZnYDPiP-EU2lGSz2F-3ZkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055067791043-l8ho0m6iji1he2ldsd2qsae5nprov7js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
